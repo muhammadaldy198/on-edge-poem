@@ -3,12 +3,13 @@ from pathlib import Path
 
 POEM = (
     "You pick the stairs. I'll take the low end.\n"
-    "We agree: either of us can call down.\n"
+    "If either says down, down it goes.\n"
     "\n"
-    "Halfway up, you say:\n"
-    "Down.\n"
-    "We set the pane on edge.\n"
-    "Through the glass I watch your thumb\n"
+    "Halfway up you say down so softly\n"
+    "I could have kept climbing.\n"
+    "\n"
+    "I bend. The glass ticks against stone.\n"
+    "Through it I watch your thumb\n"
     "uncurl, then go pink again."
 )
 
